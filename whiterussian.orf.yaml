@@ -1,0 +1,21 @@
+recipe:
+  name: White Russian
+  category: Cocktail
+  glass_type: Rocks glass
+  ingredients:
+    - amount: 2 oz
+      ingredient: Vodka
+    - amount: 1 oz
+      ingredient: Coffee Liqueur (e.g., Kahlúa)
+    - amount: 1 oz
+      ingredient: Heavy Cream
+    - ingredient: Ice cubes
+  instructions:
+    - Fill a rocks glass with ice.
+    - Pour vodka and coffee liqueur over the ice, stirring gently.
+    - Slowly pour cream on top to create layers.
+    - Swirl the drink before enjoying.
+  variations:
+    - Vegan: Substitute cream with coconut or nut milk.
+    - Bailey's White Russian: Use Bailey's Irish Cream instead of heavy cream.
+    - Pumpkin Spice White Russian: Add pumpkin spice for a seasonal twist.
