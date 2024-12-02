@@ -1,0 +1,19 @@
+recipe:
+  name: Screwdriver
+  category: Cocktail
+  glass_type: Highball glass
+  ingredients:
+    - amount: 2 oz
+      ingredient: Vodka
+    - amount: 5 oz
+      ingredient: Orange Juice
+    - ingredient: Ice cubes
+  instructions:
+    - Fill a highball glass with ice.
+    - Pour vodka over the ice.
+    - Add orange juice and stir gently to combine.
+    - Garnish with an orange slice if desired.
+  variations:
+    - Mimosa: Substitute half of the orange juice with champagne.
+    - Spicy Screwdriver: Add a splash of hot sauce or jalapeño-infused vodka.
+    - Tropical Screwdriver: Mix in a splash of pineapple juice for a tropical twist.
