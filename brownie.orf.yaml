@@ -1,0 +1,35 @@
+recipe:
+  name: Chocolate Pie
+  category: Dessert
+  glass_type: Pie dish
+  ingredients:
+    - amount: 1 ½ cups
+      ingredient: Graham cracker crumbs
+    - amount: ½ cup
+      ingredient: Sugar
+    - amount: ½ cup
+      ingredient: Unsweetened cocoa powder
+    - amount: ½ cup
+      ingredient: Butter (melted)
+    - amount: 2 cups
+      ingredient: Milk
+    - amount: 3 oz
+      ingredient: Semi-sweet chocolate (chopped)
+    - amount: 3 tbsp
+      ingredient: Cornstarch
+    - amount: ¼ tsp
+      ingredient: Salt
+    - amount: 2 tsp
+      ingredient: Vanilla extract
+    - amount: 3
+      ingredient: Egg yolks (beaten)
+  instructions:
+    - Preheat oven to 350°F (175°C).
+    - In a bowl, combine graham cracker crumbs, sugar, and melted butter; mix well.
+    - Press mixture into the bottom and sides of a pie dish.
+    - Bake crust for 10 minutes, then let cool.
+    - In a saucepan, heat milk and chopped chocolate over medium heat until melted.
+    - In another bowl, mix cornstarch, salt, and egg yolks; add to chocolate mixture.
+    - Cook until thickened, stirring constantly.
+    - Remove from heat and stir in vanilla extract.
+    - Pour filling into cooled crust and refrigerate until set.
